@@ -1,0 +1,4 @@
+#!/bin/sh
+# Launch Kiln from its source checkout
+KILN_DIR="$(dirname "$(dirname "$(readlink -f "$0")")")"
+exec env PYTHONPATH="$KILN_DIR${PYTHONPATH:+:$PYTHONPATH}" python3 -m kiln "$@"

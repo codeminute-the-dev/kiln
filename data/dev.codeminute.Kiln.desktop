@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Kiln
+GenericName=Disc Burner
+Comment=Burn audio CDs, data discs and disc images
+Exec=kiln %F
+Icon=media-optical
+Terminal=false
+Type=Application
+Categories=GTK;GNOME;AudioVideo;DiscBurning;
+Keywords=burn;cd;dvd;disc;iso;audio;
+MimeType=application/x-cd-image;application/vnd.efi.iso;audio/flac;audio/mpeg;audio/ogg;audio/x-wav;audio/x-vorbis+ogg;audio/mp4;
+StartupNotify=true
