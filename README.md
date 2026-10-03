@@ -84,4 +84,6 @@ The parser tests use output captured from real drives.
 
 ## License
 
-Kiln is source-available under the [Codeminute License](LICENSE): you may use, modify and share it, but copies must credit Codeminute, stay under the same license with full source, and may not be sold.
+Copyright (C) 2026 Codeminute
+
+Kiln is free software, licensed under the [GNU General Public License v3.0 or later](LICENSE). You can use, modify and share it; if you distribute it or a modified version, it has to stay under the GPL with its source code available.
